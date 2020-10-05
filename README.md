@@ -5,7 +5,7 @@ A highly extendable PHP library that generate and prints html for [bootstrap](ht
 
 ## Installation
 ```term
-$ composer require lodev09/bootstrap-php
+$ composer require scopweb/bootstrap-php
 ```
 
 ## Built-in Components
